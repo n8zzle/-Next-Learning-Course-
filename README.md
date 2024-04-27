@@ -4,8 +4,8 @@
 
 1. Getting Started (done)
 2. CSS Styling (done)
-3. Optimizing Fonts and Images
-4. Creating Layouts and Pages
+3. Optimizing Fonts and Images (done)
+4. Creating Layouts and Pages (done)
 5. Navigation Between Pages
 6. Setting Ip Your Database
 7. Fetching Data
